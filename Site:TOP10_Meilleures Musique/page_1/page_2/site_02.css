@@ -1,0 +1,44 @@
+.AsItWas, .MePortoBonitod, .Running, .PROVENZA, .TeFelecito, .CdHearth, .Waves, .Enemy
+{
+
+	width: 300px
+
+}
+
+.AsItWasDiv, .MePortoBonitodiv, .Runningdiv, .TeFelecitodiv, .CdHearthdiv, .Wavesdiv, .Enemydiv
+{
+
+	float: left;
+	text-align: center;
+
+}
+
+section
+{
+
+	border:5px double gray;
+	float: left;
+	font-family: "Futura";
+	margin: 13px;
+	padding: 10px;
+	text-align: center;
+
+}
+
+.clipmusiqueAsItWas, .clipmusiqueMePortoBonito, .clipmusiqueCold
+{
+
+	float: right;
+	text-align: center;
+	padding : auto;
+	padding: 7px;
+
+}
+
+em
+{
+
+	text-decoration: underline;
+
+}
+

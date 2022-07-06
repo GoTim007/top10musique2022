@@ -1,0 +1,156 @@
+*
+{
+
+	font-family: "Futura";
+
+}
+
+
+h1
+{
+
+	text-align: center;
+	background: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+	border: 3px black solid;
+	box-shadow: 4px 4px 4px darkred;
+	font-size: 3em
+
+}
+
+
+}
+
+.image1
+{	
+
+	
+}
+
+.image1img
+{
+
+	width: 700px
+}
+
+.image1div
+{
+
+	text-align: center;
+
+}
+
+.image2
+{
+
+	width:600px;
+	float: left;
+	filter: drop-shadow(0 0 20px pink);
+
+
+}
+
+
+
+/*---------*/
+p
+{
+
+font-size: 1,7em
+
+}
+
+.titre_intro
+{
+
+	text-decoration: underline;
+	font-size: 2em
+
+}
+/*---------*/
+
+body
+{
+
+	background-image: linear-gradient(to top, #c4c5c7 0%, white 30%, #ebebeb 100%);
+	font-family: "Futura";
+}
+
+section
+{
+
+	background-image: : url(img_musiquefond.jpeg);
+	clear: both;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+h2
+{
+
+	font-size: 2em
+
+
+}
+
+.utiliterMus
+{
+
+	text-align: left;
+	border: 3px solid black;
+	border-radius: 20px
+}
+
+.utiliterMus3
+{
+
+	text-decoration: underline;
+	font-size: 2em
+
+}
+
+.utiliterMusTotal
+{
+
+	text-align: center;
+
+}
+
+li
+{
+
+	font: 1rem 'Fira Sans', sans-serif;
+
+}
+
+.Top10
+{
+
+	width: 600px
+
+}
+
+.Top10div
+{
+
+	text-align: center;
+	clear: both;
+	position: relative;
+	top: 60px;
+	filter: drop-shadow(0 0 20px red);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
